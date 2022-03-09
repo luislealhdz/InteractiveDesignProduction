@@ -1,0 +1,21 @@
+.banner-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.pexels.com/photos/436413/pexels-photo-436413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+    opacity: 10;
+}
+
+#text-title{
+    font-size: 5em;
+}
+
+#text-subtitle{
+    letter-spacing: 5px;
+}
+
+.icon-star{
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
